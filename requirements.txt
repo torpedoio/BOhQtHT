@@ -2,7 +2,7 @@ https://github.com/New-dev0/Telethon/archive/Artifact.zip
 py-Ultroid==2022.2.10
 pytgcalls==3.0.0.dev21
 
-akinator.py
+akinator
 apscheduler
 bs4
 cairosvg
